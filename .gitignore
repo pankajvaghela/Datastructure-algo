@@ -1,0 +1,8 @@
+#ignrore everything
+* 
+
+#do not everything with extension 
+!*.* 
+
+#// do not ignore any folder
+!*/ 
